@@ -1,0 +1,10 @@
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\bin\Debug\Alt's Calculator.exe.config
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\bin\Debug\Alt's Calculator.exe
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\bin\Debug\Alt's Calculator.pdb
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\obj\Debug\Alt's Calculator.csproj.AssemblyReference.cache
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\obj\Debug\Alt_s_Calculator.Properties.Resources.resources
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\obj\Debug\Alt's Calculator.csproj.GenerateResource.cache
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\obj\Debug\Alt's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\obj\Debug\Alt's Calculator.exe
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\obj\Debug\Alt's Calculator.pdb
+C:\Users\akbde\Documents\Calculator\Alt's Calculator\obj\Debug\Alt_s_Calculator.Calculator.resources
